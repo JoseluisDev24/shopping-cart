@@ -23,8 +23,7 @@ export default function ShoppingCart() {
               {product.name}
             </h5>
             <span className="ml-auto">
-              {product.quantity} x ${product.price} = $
-              {product.quantity * product.price}
+              {product.quantity} x ${product.price}
             </span>
             <div>
               <button

@@ -20,7 +20,7 @@
     "name": "Smartwatch Deportivo",
     "image": "https://http2.mlstatic.com/D_NQ_NP_733580-MLA72063241888_102023-O.webp",
     "description": "Reloj inteligente con monitor de frecuencia cardíaca, GPS integrado y resistencia al agua.",
-    "price": 199.99,
+    "price": 199,
     "quantity": 5
   },
   {
@@ -44,7 +44,7 @@
     "name": "Teclado Mecánico RGB",
     "image": "https://http2.mlstatic.com/D_NQ_NP_835214-MLU70471120496_072023-O.webp",
     "description": "Teclado mecánico retroiluminado con switches personalizables y múltiples efectos de iluminación.",
-    "price": 99.99,
+    "price": 99,
     "quantity": 5
   },
   {
@@ -92,7 +92,7 @@
     "name": "Smart TV 55 pulgadas",
     "image": "https://http2.mlstatic.com/D_NQ_NP_945296-MLA53264342135_012023-O.webp",
     "description": "Televisor inteligente con resolución 4K y aplicaciones integradas como Netflix, YouTube, y más.",
-    "price": 599.99,
+    "price": 599,
     "quantity": 5
   },
   {
@@ -100,7 +100,7 @@
     "name": "Disco Duro Externo 2TB",
     "image": "https://http2.mlstatic.com/D_NQ_NP_778776-MLU78397427709_082024-O.webp",
     "description": "Disco duro externo de 2TB con conectividad USB 3.0, ideal para almacenamiento adicional o respaldo de archivos.",
-    "price": 89.99,
+    "price": 89,
     "quantity": 5
   },
   {
@@ -108,7 +108,7 @@
     "name": "Smartwatch de Lujo",
     "image": "https://http2.mlstatic.com/D_NQ_NP_791901-MLU76205342700_052024-O.webp",
     "description": "Smartwatch de alta gama con pantalla AMOLED y múltiples funciones de salud y fitness.",
-    "price": 349.99,
+    "price": 350,
     "quantity": 5
   },
   {
